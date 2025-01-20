@@ -1,4 +1,4 @@
-# HardHat C2 0Days Authentication Bypass
+# HardHat C2 0-Day Authentication Bypass
 This vulnerability is present because HardHatC2 relies on a static JWT signing key that allows unauthenticated creation of valid access tokens for any role.
 
 # How To Use
